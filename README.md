@@ -7,7 +7,7 @@ Yeagger would like to have a quiz app for internal use. This quiz app will be us
 ​
 Pointers Yeagger wants to achieve:
 * The quiz app should have customisable content
-* The quiz app should have a dashboard to create/delete this customisable content
+* The quiz app should have a dashboard to create this customisable content
 * The quiz app should be somewhat real time
 * The quiz app should give the users a competitive feel when answering questions
 * The app must work on Android (iOS is optional)
