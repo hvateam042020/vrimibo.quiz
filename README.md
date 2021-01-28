@@ -19,10 +19,10 @@ Pointers Yeagger wants to achieve:
 # Project Management
 * [Trello](https://trello.com/b/bCI44nDN/team-4)
 * [Github](#)
-* [Globale Uren Administratie] (https://docs.google.com/spreadsheets/d/1iYL_mUg4VUNpqUTnIA2F40eM8bMybt5HNMzP-ZsgNTw/edit?usp=sharing)
+* [Globale Uren Administratie](https://docs.google.com/spreadsheets/d/1iYL_mUg4VUNpqUTnIA2F40eM8bMybt5HNMzP-ZsgNTw/edit?usp=sharing)
 
 # Tests
-* [Test resultaten] (https://docs.google.com/document/d/1zrtpf5yKrc-Us076FyA_1Ef-M5OiNrZsji_8-7bfKM8/edit?usp=sharing)
+* [Test resultaten](https://docs.google.com/document/d/1zrtpf5yKrc-Us076FyA_1Ef-M5OiNrZsji_8-7bfKM8/edit?usp=sharing)
 
 
 # Documentation
